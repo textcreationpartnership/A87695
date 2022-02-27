@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brotherly exhortation from the General Assembly of the Church of Scotland, to their brethren in England</title>
+            <author>Church of Scotland. General Assembly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87695</idno>
+            <idno type="STC">Wing K333</idno>
+            <idno type="STC">ESTC R230359</idno>
+            <idno type="EEBO-CITATION">99899578</idno>
+            <idno type="PROQUEST">99899578</idno>
+            <idno type="VID">154017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87695)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154017)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brotherly exhortation from the General Assembly of the Church of Scotland, to their brethren in England</title>
+                  <author>Church of Scotland. General Assembly.</author>
+                  <author>Ker, A.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Evan Tyler, printer to the Kings most excellent Majestie,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: A. Ker.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland. --  General Assembly --  History --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154017:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <p>A BROTHERLY EXHORTATION FROM THE GENERAL ASSEMBLY OF THE CHURCH OF <hi>SCOTLAND,</hi> To their BRETHREN in ENGLAND.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by EVAN TYLER, Printer to the Kings moſt Excellent MAjESTIE, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:154017:2"/>
+            <!-- PDF PAGE 7 -->
+            <opener>
+               <dateline>Edinburgh <date>6. Aug. 1649.</date>
+               </dateline>
+            </opener>
+            <head>A Brotherly Exhortation from the General Aſſembly of the Church of<hi>Scotland,</hi> to their Brethren in <hi>England.</hi>
+            </head>
+            <p>THe many and great obligations which lie upon us in re<g ref="char:EOLhyphen"/>ference to our Brethren in <hi>England,</hi> who hold faſt their integrity, and adhere to the Solemn League and Cove<g ref="char:EOLhyphen"/>nant, together with the deſire which we have to teſtifie our Sympathie with them in their afflictions, and to preſerve ſo far as in us lieth that fellowſhip and correſpondence that hath been entertained betwixt the Church of <hi>Scotland</hi> and <hi>England</hi> theſe years paſt, do call upon us and conſtrain us not to be ſi<g ref="char:EOLhyphen"/>lent in this day of their trouble and diſtreſs.</p>
+            <p>Albeit the Lord (who hath his fire in <hi>Zion,</hi> and his furnace in <hi>Jeruſalem</hi>) hath now for a long time paſt, afflicted theſe Kingdoms with many and ſharp rods, and that his wrath ſeems not yet to be turned away, but his hand ſtretched out ſtill; yet in all this, it becomes us who live in theſe Lands to ſtop our mouthes, neither can any impute iniquity to the moſt High.</p>
+            <p>It is rather a wonder, that any mercy ſhould be continued, and that <hi>England</hi> and <hi>Scotland</hi> are not cut off from being Nati<g ref="char:EOLhyphen"/>ons, ſeeing the back-ſlidings and provocations of both has been ſo many and ſo groſs; Although the Solemn League and Covenant was ſworne and ſubſcribed by both, yet have ma<g ref="char:EOLhyphen"/>ny in both deſpiſed the Oath of GOD, as appears by the late unlawfull Engagement againſt the Kingdom of <hi>England,</hi> contrived and carried on by a prevailing party of Malignants
+<pb n="3" facs="tcp:154017:2"/>
+               <!-- PDF PAGE 7 -->in this Land, and by the proceedings of the Sectaries in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in reference to Religion and Government.</p>
+            <p>We ſhall not inſiſt upon what hath been the condition and carriage of the Lords People in this Land in reference to the late unlawfull Engagement: As we deſire to magnifie the power and loving kindneſſe of the Lord, who enabled all the Judicatures of this Church, and a conſiderable part of the Parliament, and the body of the Land, to diſſent from, and bear Teſtimony againſt the ſame, which made the Houſe of Commons in their Letter directed to the laſt Gene<g ref="char:EOLhyphen"/>ral Aſſembly or their Commiſſioners, to declare, that that Engagement could not be looked on as a National breach; So we look upon it as a wonder of his Wiſdom and Mercy, that he hath diſpoſed and directed the ſame for the furtherance of his Work in our hand, and purging his Houſe amongſt us. All this cometh forth from the Lord of Hoſts, who is wonder<g ref="char:EOLhyphen"/>full in Counſell, and Excellent in Working. Neither was it the leaſt part of the Lords goodneſſe to us, in that day of our ſtrait that we were led in a plain path, and kept from comply<g ref="char:EOLhyphen"/>ance with Sectaries on the one hand, no leſs then with Ma<g ref="char:EOLhyphen"/>lignants on the other. We have obtained this mercy to be ſted<g ref="char:EOLhyphen"/>faſt to our old principles, in bearing free and faithfull Teſti<g ref="char:EOLhyphen"/>mony againſt their proceedings, both in reference to Tolerati<g ref="char:EOLhyphen"/>on and Government, and the taking away of the Kings life.</p>
+            <p>And as the danger and judgement which threatens the Au<g ref="char:EOLhyphen"/>thors and Abettors of theſe things, doth affect our Spirits with horrour, and maketh us deſire that it may be given to them of God to repent: So we ſhould conceive our ſelves void of Chriſtian affection and compaſsion toward thoſe in <hi>England,</hi> who ſuffer for the truth and Cauſe of God, if we were not very ſenſible of all their preſent troubles and calami<g ref="char:EOLhyphen"/>ties. It is no ſmall grief to us, that the Goſpel and Govern<g ref="char:EOLhyphen"/>ment of <hi>Jeſus Chriſt</hi> are ſo deſpiſed in that Land, that faithfull Preachers are perſecuted and cryed down, that Toleration is
+<pb n="4" facs="tcp:154017:3"/>
+               <!-- PDF PAGE 8 -->eſtabliſhed by pretext of Law, and maintained by Military power, and that the Covenant is aboliſhed and buried in obli<g ref="char:EOLhyphen"/>vion. All which proceedings, cannot but be looked upon as directly contrary to the Oath of God lying upon us, and therefore cannot eſchew his Wrath when he ſhall come in Judgement, <hi>to be a ſwift witneſſe againſt thoſe that ſwear falſly by his Name.</hi>
+            </p>
+            <p>Theſe things are the more grievous to us, becauſe (beſide many other wofull evils brought forth by them) they have in<g ref="char:EOLhyphen"/>terrupted the building of the Lords Houſe in <hi>England;</hi> the foundation whereof was laid by Oath and Covenant with the moſt High God, and followed for ſome years with many De<g ref="char:EOLhyphen"/>clarations and Proteſtations of Faithfull adhering thereto, and with great expenſe of blood and Treaſure: Which things were to all the godly in theſe Nations a branch of hope, that the Lord would bring to perfection the Work of Uniformity (ſo far advanced in all the parts thereof) in theſe three Kingdoms.</p>
+            <p>But the great obſtructions and ſad interruptions that have been made therein, by the ſtrange and unexpected practiſes of many now in place and power in <hi>England,</hi> are to all the wel<g ref="char:EOLhyphen"/>affected in both Kingdoms, and in all the Churches abroad, the matter of their ſorrow and humiliation. And it there be any place left for admonition, we Warn ſuch as have forgotten the Covenant, and deſpiſed the Oath of God, and turned aſide to lies and errour, to conſider whence they are fallen, and to re<g ref="char:EOLhyphen"/>pent. Proſperity and ſucceſs for a time are no warrantable evidences of a good Cauſe, nor ſufficient guards againſt the wrath of God; It is no good uſe of the Lords mercy for ſuch men under pretext of Liberty to make both themſelves and others ſlaves to corruption, &amp; to make all men both in Church and State like the fiſhes of the Sea, o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the creeping things that have no Ruler over them. Are theſe things according to the Word of God, and the pattern of the beſt Reformed Chur<g ref="char:EOLhyphen"/>ches? Or is that the endeavour to bring the three Kingdoms
+<pb n="5" facs="tcp:154017:3"/>
+               <!-- PDF PAGE 8 -->to the neareſt uniformity that may be in Doctrine, Worſhip, Government, and Diſcipline; Or is that the maintaining of the union betwixt the three Kingdomes, when the ſtraiteſt bond thereof is utterly diſſolved and quite taken away, and the fundamentall Government by King and Parliament wholly overturned? The juſt God who is of pure eyes beholds theſe things, and ſhall with no leſſe ſury and indignation break the horn of theſe men, then he hath broken the power, and brought down the pride of Malignants before them, if repentance pre<g ref="char:EOLhyphen"/>vent not.</p>
+            <p>Amidſt thoſe fears and griefes, it is unto us matter of rejoy<g ref="char:EOLhyphen"/>cing, that there be many in <hi>England</hi> who mourn for all theſe abominations, and labour to keep their garments pure by re<g ref="char:EOLhyphen"/>fuſing to comply with that courſe of backſliding, and by bea<g ref="char:EOLhyphen"/>ring teſtimony againſt the ſame. And we hope the expectati<g ref="char:EOLhyphen"/>on of ſuch, ſhall not be diſappointed, but that the Lord will open to them a doore of hope for carrying on of his work, and making the lying ſpirit to paſſe out of that land.</p>
+            <p>And albeit many think no otherwiſe of the Covenant and work of Reformation, then as a mean to further their own ends; yet we are confident, that none who holds faſt their in<g ref="char:EOLhyphen"/>tegrity, have ſo learned Chriſt, but are carefull to make con<g ref="char:EOLhyphen"/>ſcience of the oath of God lying on them; And we are ſure (whatever be the baſe thoughts and expreſſions of back ſliders from the Covenant) it wants not many to owne it in theſe Kingdomes, who (being called thereto) would ſeale the ſame with their blood.</p>
+            <p>Although there were none in the one Kingdome who did adhere to the Covenant, yet thereby were not the other King<g ref="char:EOLhyphen"/>dome nor any perſon in either of them abſolved from the bond thereof, ſince in it we have not only ſworne by the Lord, but alſo covenanted with him. It is not the failing of one or more that can abſolve others from their duty or tye to him; Beſides, the duties therein contained, being in themſelves law<g ref="char:EOLhyphen"/>full,
+<pb n="6" facs="tcp:154017:4"/>
+               <!-- PDF PAGE 9 -->and the grounds of our tye thereunto moral, though others doe forget their duty, yet doth not their defection free us from that obligation which lyes upon us by the Covenant in our places and ſtations. And the Covenant being intended and en<g ref="char:EOLhyphen"/>tred into by theſe Kingdoms, as one of the beſt means of ſted<g ref="char:EOLhyphen"/>faſtneſſe, for guarding againſt declining times; It were ſtrange to ſay that the back ſliding of any ſhould abſolve others from the tye thereof, eſpecially ſeeing our engagement therein is not only nationall, but alſo perſonall, every one with uplifted hands ſwearing by himſelfe, as it is evident by the tennor of the Covenant.</p>
+            <p>From theſe and other important reaſons, it may appear that all theſe Kingdomes joyning together to aboliſh that oath by law, yet could they not diſpenſe therewith; Much leſſe can any one of them, or any part in either of them doe the ſame. The diſpenſing with oathes hath hitherto been abhorred as Anti<g ref="char:EOLhyphen"/>chriſtian, and never practiſed and avowed by any, but by that man of ſin; therefore thoſe who take the ſame upon them, as they joyn with him in his ſin, ſo muſt they expect to partake of his plagues.</p>
+            <p>As we ſhall ever (God willing) be mindfull of our duty to the faithfull that adhere to the Covenant in <hi>England,</hi> having them alwayes in our hearts before the Lord, ſo we deſire to be refreſhed with their ſingleneſſe and boldneſſe in the cauſe of God, according to their places. This is the time of their triall, and the houre of tentation among them; bleſſed ſhall they be who ſhall be found following the Lamb, and ſhall not be aſha<g ref="char:EOLhyphen"/>med of his teſtimony. We know in ſuch dark houres, many are drawne away with the multitude, when the Lord will a<g ref="char:EOLhyphen"/>gain purge and make white; And we doubt not but many ſuch are in <hi>England,</hi> whom the bold and clear preaching of Chriſt may reclaim; Much therefore lieth upon the Wath-men at this time, that their Trumpet may give a certain and diſtinct ſound, warning and exhorting every one, as thoſe that muſt give ac<g ref="char:EOLhyphen"/>count;
+<pb n="7" facs="tcp:154017:4"/>
+               <!-- PDF PAGE 9 -->And bleſſed ſhall thoſe ſervants be, who ſhall be found faithfull in their Lords houſe, diſtributing to his houſhold what is meet for this ſeaſon, and can ſay they are free of the blood of all men, having ſhewen them the whole Counſell of God, being in nothing terrified of the threats of their adverſaries; And bleſſed and happy ſhall that people be, that walk in the light holden forth by them, and ſtaye upon the Lord in this dark time, harkning to the voyce of his ſervants, and walking in the light of his word, and not in the ſparks of their owne kindlings, which will end in ſorrow. How inexcuſable will <hi>England</hi> be, having ſo foulie revolted againſt ſo many faire te<g ref="char:EOLhyphen"/>ſtimonies, which the Lord Chriſt hath entred as Proteſtations to preſerve his right, in theſe ends of the earth long ſince given unto him for his poſſeſſion, and of late confirmed by Solemne Covenant. Chriſts right to theſe Kingdomes is ſuer then that he ſhould be pleaded out of it by pretended liberty of Conſci<g ref="char:EOLhyphen"/>ence, and his begun poſſeſſion is more pretious to him, then to be ſatisfied with a diſhonourable toleration. All that yet we have ſeen, doth not weaken our confidence of the Lords glori<g ref="char:EOLhyphen"/>fying the houſe of his glory in theſe lands, and of his ſonnes taking unto him his great power, and raigning in the beauty and power of his Ordinances in this Iſland. His name is won<g ref="char:EOLhyphen"/>derfull, and ſo alſo are his works, we ought not therefore to ſquare them according to our line, but leave them to him who hath the government laid upon his ſhoulder, all whoſe wayes are judgement, and whoſe ruling theſe Kingdomes had never yet reaſon to decline. It is good for us to be ſtedfaſt in our du<g ref="char:EOLhyphen"/>ty, and therein quietly to wait and hope for the ſalvation of God. The word of promiſe is ſure, (and hath an appointed time) that he that will come ſhall come and will not tarry. There is none hath cauſe to diſtruſt the Lords word to his peo<g ref="char:EOLhyphen"/>ple; It hath often to our experience been tryed in the fire, and hath ever come forth with a more glorious luſtre. Let not therefore theſe that ſuffer in <hi>England</hi> caſt away their confidence,</p>
+         </div>
+      </body>
+   </text>
+</TEI>
